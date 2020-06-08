@@ -1,0 +1,7 @@
+D:\dotnet_workspace\practicum 4 XML\bin\Debug\practicum 4 XML.exe.config
+D:\dotnet_workspace\practicum 4 XML\bin\Debug\practicum 4 XML.exe
+D:\dotnet_workspace\practicum 4 XML\bin\Debug\practicum 4 XML.pdb
+D:\dotnet_workspace\practicum 4 XML\obj\Debug\practicum 4 XML.csprojAssemblyReference.cache
+D:\dotnet_workspace\practicum 4 XML\obj\Debug\practicum 4 XML.csproj.CoreCompileInputs.cache
+D:\dotnet_workspace\practicum 4 XML\obj\Debug\practicum 4 XML.exe
+D:\dotnet_workspace\practicum 4 XML\obj\Debug\practicum 4 XML.pdb
